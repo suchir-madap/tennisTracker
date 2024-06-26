@@ -1,0 +1,6 @@
+training/tennis-ball-detection-6
+runs/
+.env
+venv/
+.DS_Store
+*.pt
